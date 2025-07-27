@@ -3,6 +3,10 @@ A simple and interactive Streamlit web app that predicts the fruit name based on
 
 ---
 
+**App Link :** https://fruitimageclassification-by-vishal.streamlit.app/
+
+---
+
 🔮 Features
 Predicts fruit name from 8 input features
 
